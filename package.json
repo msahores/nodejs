@@ -1,0 +1,23 @@
+{
+  "name": "node-guide",
+  "version": "1.0.0",
+  "description": "Node Guide",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msahores/nodejs.git"
+  },
+  "author": "Manuel Sahores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msahores/nodejs/issues"
+  },
+  "homepage": "https://github.com/msahores/nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
