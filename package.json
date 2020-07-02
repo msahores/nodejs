@@ -2,10 +2,10 @@
   "name": "node-guide",
   "version": "1.0.0",
   "description": "Node Step By Step",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
